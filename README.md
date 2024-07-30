@@ -1,4 +1,4 @@
-# stAggregator
+# Molecular association network
 
 ## Overview
 Background: 
